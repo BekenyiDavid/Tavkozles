@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bar.css">
+    <script src="bar.js"></script>
+    <title>Projektet</title>
+</head>
+<body>
+    <aside class="side-bar-wrap">
+        <nav class="side-bar">
+          <div class="logo-area">  
+            <img class="min" src="" alt="logo">
+            <img class="max" src="" alt="logo">
+          </div>
+          <ul>
+            <li class="active">
+              <a href="home.html">
+                <span class="title">Home</span>
+                <span>11. Évfolyam</span>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <span class="title">News</span>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <span class="title">Jobs</span>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <span class="title">Contact</span>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <span class="title">About</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </aside>
+</body>
+</html>
